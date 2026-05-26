@@ -2,7 +2,7 @@
 
 Cinematic 3D AI developer portfolio built with React, Three.js, and Tailwind CSS. Featuring an immersive AI brain animation, holographic glassmorphic UI, and bento-grid layouts.
 
-🌐 **Live**: _coming soon_
+🌐 **Live**: [https://irfan-del-droid.github.io/Portfolio-SI/](https://irfan-del-droid.github.io/Portfolio-SI/)
 👤 **Author**: [Shek Irfan S](https://www.linkedin.com/in/shek-irfan-s-b7422133a)
 🐙 **GitHub**: [@Irfan-del-droid](https://github.com/Irfan-del-droid)
 
